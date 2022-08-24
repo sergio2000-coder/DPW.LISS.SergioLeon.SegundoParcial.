@@ -1,2 +1,1 @@
-# DPW.LISS.SergioLeon.SegundoParcial.
-DPW Practice LISS Sergio Leon
+# Galaxy-Store-Proyecto-ordinario-
